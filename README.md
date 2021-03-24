@@ -1,2 +1,2 @@
 # xz_weibo_data_scrape
-Scraping Vlinkage &amp; Datawin charts related to 肖战 from Weibo
+Scraping data &amp; images associated with 肖战 from Weibo accounts Vlinkage and Datawin
